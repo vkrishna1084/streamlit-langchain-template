@@ -3,7 +3,7 @@
 This package contains the infrastructure and the code to deploy and run a backend service that calls an LLM chain (`chain.py`). You can use the included `webapp` to connect to the deployment API Gateway endpoint, that lets you interact with the service from a web application.
 
 ## Design
-![Lambda Service Design](./images/service_design.svg)
+<img src="./images/service-design.svg" width="50%" height="50%" />
 
 ## Code organization
 ### app.py
